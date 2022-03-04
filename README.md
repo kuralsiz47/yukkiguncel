@@ -1,19 +1,4 @@
-<h3>⚠️ This repo is just a clone of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/NotReallyShikhar/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
-
-<h4 align="center">
-    A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
-</h4>
-<p align="center">
-    <a href="https://t.me/SiestaXMusicBot"> Ready-To-Use Bot </a> •
-    <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
-    <a href="https://t.me/TechZBots"> Support Channel </a> •
-    <a href="https://t.me/TechZBots_Support"> Support Chat </a> 
-</p>
-
-# SiestaXMusic
-A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
 Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
@@ -56,12 +41,6 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
 <p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkuralsiz47%2Fyukkiguncel"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
-</details>
-<details>
-<summary><b>🔗 Deploy to VPS</b></summary>
-<br>
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/kuralsiz47/yukkiguncel
@@ -73,31 +52,3 @@ shikhar@MacBook~ $ cp sample.env .env
 ```console
 shikhar@MacBook~ $ bash start
 ```
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/OfficialYukki/2275)
-</details>
-## Config Vars
-
-- Checkout All [Available Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/available-vars)
-- Checkout Only [Mandatory Vars](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars)
-- Checkout Some [Configs](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
-
-## Contact & Support
-
-- [Telegram Channel](https://t.me/TechZBots)
-- [Telegram Support Group](https://t.me/TechZBots_Support)
-- [Contact Owner](https://t.me/Tech_Shreyash)
-
-
-## License
-
-Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
-
-## Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
