@@ -79,9 +79,9 @@ async def gen_thumb(thumbnail, title, userid, status, views, duration, channel):
     image4.text((670, 350), text=title1[1], fill="white", font = font3, align ="left") 
 
     # description
-    views = f"Views : {views}"
-    duration = f"Duration : {duration} Mins"
-    channel = f"Channel : {channel}"
+    views = f"Görüntüleme : {views}"
+    duration = f"Süre : {duration} dakika"
+    channel = f"Kanal : {channel}"
 
     image4.text((670, 450), text=views, fill="white", font = font4, align ="left") 
     image4.text((670, 500), text=duration, fill="white", font = font4, align ="left") 
